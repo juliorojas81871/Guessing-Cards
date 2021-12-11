@@ -3,7 +3,7 @@ This code is a game where you will guess if the next card will be even or odd.
 The orginal api was used at this [Website](https://deckofcardsapi.com/).
 
 # Steps to get code to run:
-1. open terminal
+1. Open terminal
 2. type (You can also download the code):
 ```
 git clone https://github.com/juliorojas81871/Guessing-Cards
